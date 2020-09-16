@@ -1,5 +1,5 @@
 "
-<img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="800px" height="300px">
+<img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="900px" height="350px">
 
 ### Hi there, I'm Suraj - aka [Spielers][website] 👋
 
