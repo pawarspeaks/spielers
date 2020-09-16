@@ -1,5 +1,6 @@
-##hi
-![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/wpBkHSsESF13DYVrbT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wpBkHSsESF13DYVrbT">via GIPHY</a></p>
+
+![1](https://giphy.com/gifs/wpBkHSsESF13DYVrbT")
 
 ### Hi there, I'm Suraj - aka [Spielers][website] 👋
 
