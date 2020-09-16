@@ -1,6 +1,5 @@
 
-<img src="https://media.giphy.com/media/wpBkHSsESF13DYVrbT/giphy.gif" width="800px" height="400px">
-![1](https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif)
+<img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="800px" height="400px">
 
 ### Hi there, I'm Suraj - aka [Spielers][website] 👋
 
