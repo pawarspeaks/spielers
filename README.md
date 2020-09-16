@@ -1,7 +1,7 @@
-"
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 <img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="900px" height="350px">
 
-### Hi there, I'm Suraj - aka [Spielers][website] 👋
+### Hi there, I'm Suraj - aka [spielers][website] 
 
 [![Website](https://img.shields.io/website?label=surajpatil.tech&style=for-the-badge&url=http%3A%2F%2Fsurajpatil.tech%2F)](https://surajpatil.tech)
 
