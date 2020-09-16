@@ -1,6 +1,5 @@
-https://media.giphy.com/media/wpBkHSsESF13DYVrbT/giphy.gif
 
-![1](https://media.giphy.com/media/wpBkHSsESF13DYVrbT/giphy.gif)
+<img src="https://media.giphy.com/media/wpBkHSsESF13DYVrbT/giphy.gif" width="800px">
 
 ### Hi there, I'm Suraj - aka [Spielers][website] 👋
 
