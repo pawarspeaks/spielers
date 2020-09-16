@@ -6,11 +6,6 @@
 
 ## I'm a sophomore, Game Designer , Programmer!
 
-### My Drug!
-[![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true&theme=chartreuse-dark)]
-
-<h3 align="center">A passionate Game developer from India</h3>
-
 - 🔭 I’m currently working on [Mayu](https://github.com/Project-Krida/)
 
 - 🌱 I’m currently learning **Everything**
@@ -20,6 +15,11 @@
 - 💬 Ask me about **Flutter and hacks**
 
 - 📫 How to reach me **mail@surajpatil.tech**
+
+
+### My Drug!
+[![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true&theme=chartreuse-dark)]
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
