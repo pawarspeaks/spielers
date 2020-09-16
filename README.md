@@ -2,7 +2,7 @@
 </br>
 <img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="900px" height="350px">
 
-![Website](https://img.shields.io/website?label=Surajpatil.tech&style=for-the-badge&url=http%3A%2F%2Fsurajpatil.tech%2F)
+![Website](https://img.shields.io/website?label=Surajpatil.tech&style=for-the-badge&up_color=green&url=http%3A%2F%2Fsurajpatil.tech%2F)
 
 ## I'm a sophomore, Game Designer , Programmer!
 
