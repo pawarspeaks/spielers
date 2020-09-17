@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Surajpatil.tech&style=for-the-badge&up_color=green&url=https%3A%2F%2Fsurajpatil.tech%2F)](https://surajpatil.tech)
 
 
-## I'm a sophomore, Game Designer , Programmer!
+## A sophomore, Game Designer , Programmer!
 
 - 🔭 I’m currently working on [Mayu](https://github.com/Project-Krida/)
 
@@ -14,6 +14,9 @@
 - 💬 Ask me about **Flutter and hacks**
 
 - 📫 How to reach me **mail@surajpatil.tech**
+
+- 👨‍💻 All of my projects are available at [spielers.github.io](spielers.github.io)
+
 
 
 ### My Drug!
