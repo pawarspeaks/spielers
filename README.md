@@ -21,7 +21,8 @@
 
 ### My Drug!
 ![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true&theme=chartreuse-dark)
-
+<p><img align="left" src="https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=spielers&layout=compact" alt="spielers" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true" alt="spielers" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
