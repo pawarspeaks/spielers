@@ -1,8 +1,5 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
 [![Header](https://github.com/spielers/spielers/blob/master/into.gif)](https://surajpatil.tech)
-</br>
-<img src="https://github.com/spielers/spielers/blob/master/ezgif.com-optimize.gif" width="900px" height="350px">
-
 [![Website](https://img.shields.io/website?label=Surajpatil.tech&style=for-the-badge&up_color=green&url=https%3A%2F%2Fsurajpatil.tech%2F)](https://surajpatil.tech)
 
 
