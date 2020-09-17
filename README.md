@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mail@surajpatil.tech**
 
-- 👨‍💻 All of my projects are available at [spielers.github.io](spielers.github.io)
+- 👨‍💻 All of my projects are available at [spielers.github.io](https://spielers.github.io)
 
 
 
