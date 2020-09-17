@@ -20,8 +20,8 @@
 
 
 ### My Drug!
-[![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true&theme=chartreuse-dark)]
-[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=spielers&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=spielers&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=spielers&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
