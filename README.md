@@ -34,7 +34,7 @@
 
 
 <p align="center">
-<a href="https://dev.to/spielers" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6658064271579517834-512.png" alt="spielers" height="30" width="30" /></a>
+<a href="https://dev.to/spielers" target="blank"><img align="center" src="https://gist.github.com/benhalpern/eff81b17359acafd17849146549b9291" alt="spielers" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/surajpatil-me/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/545912701530099617-512.png" alt="surajpatil-me/" height="30" width="30" /></a>
 <a href="https://medium.com/@spielers" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/19325663451556105326-512.png" alt="@spielers" height="30" width="30" /></a>
 </p>
