@@ -1,6 +1,5 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
 [![Header](https://github.com/spielers/spielers/blob/master/into.gif)](https://spielers.github.io)
-[![Website](https://img.shields.io/website?label=Surajpatil.tech&style=for-the-badge&up_color=green&url=https%3A%2F%2Fsurajpatil.tech%2F)](https://surajpatil.tech)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/surajpatil-me/)
 <img src="https://profile-counter.glitch.me/spielers/count.svg" />
 
