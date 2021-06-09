@@ -3,17 +3,17 @@
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/surajpatil-me/)
 <img src="https://profile-counter.glitch.me/spielers/count.svg" />
 
-## A sophomore, Game Designer , Programmer!
+## Final Year VITian, Cloud architect , Programmer!
 
 - 🔭 I’m currently working on [Mayu](https://github.com/Project-Krida/)
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Anything**
 
 - 💬 Ask me about **Flutter and hacks**
 
-- 📫 How to reach me **mail@surajpatil.tech** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> Spielers#4710
+- 📫 How to reach me **gamitics@gmail.com** or <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> Spielers#4710
 
 - 👨‍💻 All of my projects are available at [spielers.github.io](https://spielers.github.io)
 
@@ -32,13 +32,11 @@
 - [How TO use ‘Futures’ in Flutter for Beginners](https://medium.com/@spielers/how-to-use-futures-in-flutter-for-beginners-886abc5a0dd6?source=rss-298cb293300b------2)
 <!-- BLOG-POST-LIST:END -->
 
--<p <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
-
 
 <p align="center">
-<a href="https://dev.to/spielers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="spielers" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/surajpatil-me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surajpatil-me/" height="30" width="30" /></a>
-<a href="https://medium.com/@spielers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@spielers" height="30" width="30" /></a>
+<a href="https://dev.to/spielers" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6658064271579517834-512.png" alt="spielers" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/surajpatil-me/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/545912701530099617-512.png" alt="surajpatil-me/" height="30" width="30" /></a>
+<a href="https://medium.com/@spielers" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/19325663451556105326-512.png" alt="@spielers" height="30" width="30" /></a>
 </p>
 
 
