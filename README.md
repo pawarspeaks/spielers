@@ -1,6 +1,6 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
 [![Header](https://github.com/spielers/spielers/blob/master/into.gif)](https://spielers.github.io)
-[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/surajpatil-me/)
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajpatil-me/)
 <img src="https://profile-counter.glitch.me/spielers/count.svg" />
 
 ## Final Year VITian, Cloud architect , Programmer!
