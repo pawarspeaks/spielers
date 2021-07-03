@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajpatil-me/)
 <img src="https://profile-counter.glitch.me/spielers/count.svg" />
 
-## Final Year VITian, Cloud architect , Programmer!
+## Final Year Undergraduate, Cloud engineeer , Web developer , Open Source Dev , Moderator  @appwrite , Mentor @gatsbyjs , Programmer!
 
 - 🔭 I’m currently working on [Mayu](https://github.com/Project-Krida/)
 
