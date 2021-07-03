@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I'm looking to collaborate with people with interest to **change the world** 
 
 - 💬 Ask me about **Flutter and hacks**
 
