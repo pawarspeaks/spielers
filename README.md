@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter and hacks**
 
-- 📫 How to reach me **gamitics@gmail.com** or <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> Spielers#4710
+- 📫 How to reach me **Surajpatilvit@gmail.com** or <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> Spielers#4710
 
 - 👨‍💻 All of my projects are available at [spielers.github.io](https://spielers.github.io)
 
