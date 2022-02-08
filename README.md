@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Covisangli.com](http://covisangli.com/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DC-OS**
 
 - 👯 I'm looking to collaborate with people with interest to **change the world** 
 
